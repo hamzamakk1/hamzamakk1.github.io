@@ -1,0 +1,11 @@
+body	{
+			background-image:url(laptop.png);
+		}
+h1		{
+			color:white;
+		}
+.btn-primary	{
+					font-size:20px;
+					radius:50%;	
+					background-color:orange;
+				}
